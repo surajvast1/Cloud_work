@@ -11,7 +11,7 @@ app.use("/",(req,res)=>{
 });
 
 
-app.listen(5000, () => {
+app.listen( 5000, () => {
   console.log(`App running on port ${PORT}`);
 })
 
